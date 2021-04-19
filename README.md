@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ash827/ash827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on finding a career as a Data Engineer!
 - 🌱 I’m currently learning more about SQL, Python, and a class about problem solving.
